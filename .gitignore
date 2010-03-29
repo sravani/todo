@@ -1,0 +1,7 @@
+*tmp
+*~
+*swp
+*swo
+config/database.yml
+tmp
+log
